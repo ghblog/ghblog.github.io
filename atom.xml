@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>经验分享</title>
   
-  <subtitle>Kango在github上搭建的博客</subtitle>
+  <subtitle>在github上搭建的博客</subtitle>
   <link href="https://ghblog.github.io/atom.xml" rel="self"/>
   
   <link href="https://ghblog.github.io/"/>
