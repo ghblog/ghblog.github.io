@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>经验分享</title>
+  
+  <subtitle>Kango在github上搭建的博客</subtitle>
+  <link href="https://ghblog.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ghblog.github.io/"/>
+  <updated>2023-12-17T03:25:00.666Z</updated>
+  <id>https://ghblog.github.io/</id>
+  
+  <author>
+    <name>Kango</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown：解放排版，简洁高效的文字创作神器！</title>
+    <link href="https://ghblog.github.io/posts/23b678b6.html"/>
+    <id>https://ghblog.github.io/posts/23b678b6.html</id>
+    <published>2023-12-11T09:01:43.000Z</published>
+    <updated>2023-12-17T03:25:00.666Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Markdown 是一种轻量级的标记语言，它允许人们使用&lt;strong&gt;易读易写&lt;/strong&gt;的纯文本格式编写文档，借助可实现快速排版且转换成格式丰富的 HTML</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://ghblog.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://ghblog.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手摸手教你安装 Redis</title>
+    <link href="https://ghblog.github.io/posts/b76f1d2.html"/>
+    <id>https://ghblog.github.io/posts/b76f1d2.html</id>
+    <published>2023-12-08T17:02:44.000Z</published>
+    <updated>2023-12-17T03:25:00.692Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;安装-Redis&quot;&gt;&lt;a href=&quot;#安装-Redis&quot; class=&quot;headerlink&quot; title=&quot;安装 Redis&quot;&gt;&lt;/a&gt;安装 Redis&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="https://ghblog.github.io/categories/Redis/"/>
+    
+    
+    <category term="Cache" scheme="https://ghblog.github.io/tags/Cache/"/>
+    
+    <category term="Redis" scheme="https://ghblog.github.io/tags/Redis/"/>
+    
+    <category term="缓存" scheme="https://ghblog.github.io/tags/%E7%BC%93%E5%AD%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis 高频常用命令列表</title>
+    <link href="https://ghblog.github.io/posts/d7e52b6f.html"/>
+    <id>https://ghblog.github.io/posts/d7e52b6f.html</id>
+    <published>2023-12-08T16:55:25.000Z</published>
+    <updated>2023-12-17T03:25:00.675Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Redis-的数据类型&quot;&gt;&lt;a href=&quot;#Redis-的数据类型&quot; class=&quot;headerlink&quot; title=&quot;Redis 的数据类型&quot;&gt;&lt;/a&gt;Redis 的数据类型&lt;/h1&gt;&lt;h2 id=&quot;redis-cli-命令&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="https://ghblog.github.io/categories/Redis/"/>
+    
+    
+    <category term="Cache" scheme="https://ghblog.github.io/tags/Cache/"/>
+    
+    <category term="Redis" scheme="https://ghblog.github.io/tags/Redis/"/>
+    
+    <category term="缓存" scheme="https://ghblog.github.io/tags/%E7%BC%93%E5%AD%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>M1 安装 Homebrew 和 php 开发环境</title>
+    <link href="https://ghblog.github.io/posts/b12a8007.html"/>
+    <id>https://ghblog.github.io/posts/b12a8007.html</id>
+    <published>2023-11-27T14:22:13.000Z</published>
+    <updated>2023-12-17T03:25:00.665Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;先安装 homebrew 方便下载软件。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果使用官网推荐的方式下载时提示以下错误信息时，则表示网络超时，建议直接使用源码包的形式安装&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;错误信息如下所示：&lt;/p&gt;
+&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="PHP" scheme="https://ghblog.github.io/categories/PHP/"/>
+    
+    
+    <category term="PHP" scheme="https://ghblog.github.io/tags/PHP/"/>
+    
+    <category term="Homebrew" scheme="https://ghblog.github.io/tags/Homebrew/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不花一分钱也可以用上 JetBrains 正版全家桶</title>
+    <link href="https://ghblog.github.io/posts/b3af447c.html"/>
+    <id>https://ghblog.github.io/posts/b3af447c.html</id>
+    <published>2023-11-24T08:18:45.000Z</published>
+    <updated>2023-12-17T03:25:00.684Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;昨天，发现正在使用的 idea 要到期了，于是自己得马上去续约，免得影响自己的工作。&lt;/p&gt;
+&lt;p&gt;其实，我体验过不少的编辑器，Notepad++、Sublime Text、Apache NetBeans、Vim、Neovim、再就是大名鼎鼎的 Visual Studio</summary>
+        
+      
+    
+    
+    
+    <category term="科普" scheme="https://ghblog.github.io/categories/%E7%A7%91%E6%99%AE/"/>
+    
+    
+    <category term="JetBrains" scheme="https://ghblog.github.io/tags/JetBrains/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何找到 Redis 的 Big key？</title>
+    <link href="https://ghblog.github.io/posts/fe9e07a8.html"/>
+    <id>https://ghblog.github.io/posts/fe9e07a8.html</id>
+    <published>2023-11-10T07:59:25.000Z</published>
+    <updated>2023-12-17T03:25:00.691Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何找到-Redis-的-Big-key？&quot;&gt;&lt;a href=&quot;#如何找到-Redis-的-Big-key？&quot; class=&quot;headerlink&quot; title=&quot;如何找到 Redis 的 Big key？&quot;&gt;&lt;/a&gt;如何找到 Redis 的 Big</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="https://ghblog.github.io/categories/Redis/"/>
+    
+    
+    <category term="Go" scheme="https://ghblog.github.io/tags/Go/"/>
+    
+    <category term="Redis" scheme="https://ghblog.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 使用虚拟环境</title>
+    <link href="https://ghblog.github.io/posts/ddef4649.html"/>
+    <id>https://ghblog.github.io/posts/ddef4649.html</id>
+    <published>2023-11-07T09:46:01.000Z</published>
+    <updated>2023-12-17T03:25:00.672Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Python-使用虚拟环境&quot;&gt;&lt;a href=&quot;#Python-使用虚拟环境&quot; class=&quot;headerlink&quot; title=&quot;Python 使用虚拟环境&quot;&gt;&lt;/a&gt;Python 使用虚拟环境&lt;/h1&gt;&lt;p&gt;Python</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://ghblog.github.io/categories/Python/"/>
+    
+    
+    <category term="Python3" scheme="https://ghblog.github.io/tags/Python3/"/>
+    
+    <category term="Pip" scheme="https://ghblog.github.io/tags/Pip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>认识下 JWT</title>
+    <link href="https://ghblog.github.io/posts/22722346.html"/>
+    <id>https://ghblog.github.io/posts/22722346.html</id>
+    <published>2023-11-04T05:26:50.000Z</published>
+    <updated>2023-12-17T03:25:00.695Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;认识下-JWT&quot;&gt;&lt;a href=&quot;#认识下-JWT&quot; class=&quot;headerlink&quot; title=&quot;认识下 JWT&quot;&gt;&lt;/a&gt;认识下 JWT&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://jwt.io/&quot;&gt;JWT&lt;/a&gt; 是 JSON Web</summary>
+        
+      
+    
+    
+    
+    <category term="科普" scheme="https://ghblog.github.io/categories/%E7%A7%91%E6%99%AE/"/>
+    
+    
+    <category term="PHP" scheme="https://ghblog.github.io/tags/PHP/"/>
+    
+    <category term="JWT" scheme="https://ghblog.github.io/tags/JWT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你愿意花半个小时时间得到一个终身受益的技能吗</title>
+    <link href="https://ghblog.github.io/posts/7c4e8ab6.html"/>
+    <id>https://ghblog.github.io/posts/7c4e8ab6.html</id>
+    <published>2023-10-30T10:09:33.000Z</published>
+    <updated>2023-12-17T03:25:00.685Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;首先我们用 3 秒时间来闭目思考一下，半个小时我们可以做哪些事情？3 2 1 好，时间到。相信你已经有了你自己的答案，而今天我要给大家介绍的是可以用半个小时就能够快速掌握的一项技能：用双拼打字。&lt;/p&gt;
+&lt;h2 id=&quot;什么是双拼？&quot;&gt;&lt;a href=&quot;#什么是双拼？&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://ghblog.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://ghblog.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wise-locksmith PHP 互斥锁库</title>
+    <link href="https://ghblog.github.io/posts/1e08f87d.html"/>
+    <id>https://ghblog.github.io/posts/1e08f87d.html</id>
+    <published>2023-10-18T07:36:06.000Z</published>
+    <updated>2023-12-17T03:25:00.684Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;PHP-互斥锁库&quot;&gt;&lt;a href=&quot;#PHP-互斥锁库&quot; class=&quot;headerlink&quot; title=&quot;PHP 互斥锁库&quot;&gt;&lt;/a&gt;PHP 互斥锁库&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="PHP" scheme="https://ghblog.github.io/categories/PHP/"/>
+    
+    
+    <category term="PHP" scheme="https://ghblog.github.io/tags/PHP/"/>
+    
+    <category term="锁" scheme="https://ghblog.github.io/tags/%E9%94%81/"/>
+    
+    <category term="Mutex" scheme="https://ghblog.github.io/tags/Mutex/"/>
+    
+    <category term="Lock" scheme="https://ghblog.github.io/tags/Lock/"/>
+    
+    <category term="互斥锁" scheme="https://ghblog.github.io/tags/%E4%BA%92%E6%96%A5%E9%94%81/"/>
+    
+    <category term="红锁" scheme="https://ghblog.github.io/tags/%E7%BA%A2%E9%94%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 GRPC</title>
+    <link href="https://ghblog.github.io/posts/8a377bf8.html"/>
+    <id>https://ghblog.github.io/posts/8a377bf8.html</id>
+    <published>2023-10-18T07:21:01.000Z</published>
+    <updated>2023-12-17T03:25:00.685Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用-GRPC&quot;&gt;&lt;a href=&quot;#使用-GRPC&quot; class=&quot;headerlink&quot; title=&quot;使用 GRPC&quot;&gt;&lt;/a&gt;使用 GRPC&lt;/h1&gt;&lt;h2 id=&quot;安装-protobuf&quot;&gt;&lt;a href=&quot;#安装-protobuf&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="RPC" scheme="https://ghblog.github.io/categories/RPC/"/>
+    
+    
+    <category term="RPC" scheme="https://ghblog.github.io/tags/RPC/"/>
+    
+    <category term="GRPC" scheme="https://ghblog.github.io/tags/GRPC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 合并多个 commit</title>
+    <link href="https://ghblog.github.io/posts/d05f7a67.html"/>
+    <id>https://ghblog.github.io/posts/d05f7a67.html</id>
+    <published>2023-10-16T03:11:37.000Z</published>
+    <updated>2023-12-17T03:25:00.658Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Git-合并多个-commit&quot;&gt;&lt;a href=&quot;#Git-合并多个-commit&quot; class=&quot;headerlink&quot; title=&quot;Git 合并多个 commit&quot;&gt;&lt;/a&gt;Git 合并多个 commit&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Git" scheme="https://ghblog.github.io/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="https://ghblog.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 下解压缩文件</title>
+    <link href="https://ghblog.github.io/posts/1ee32f49.html"/>
+    <id>https://ghblog.github.io/posts/1ee32f49.html</id>
+    <published>2023-09-04T03:42:58.000Z</published>
+    <updated>2023-12-17T03:25:00.663Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Linux-下解压缩文件&quot;&gt;&lt;a href=&quot;#Linux-下解压缩文件&quot; class=&quot;headerlink&quot; title=&quot;Linux 下解压缩文件&quot;&gt;&lt;/a&gt;Linux 下解压缩文件&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;建议不要添加成 rar</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://ghblog.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://ghblog.github.io/tags/Linux/"/>
+    
+    <category term="tar" scheme="https://ghblog.github.io/tags/tar/"/>
+    
+    <category term="zip" scheme="https://ghblog.github.io/tags/zip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 systemd 管理服务</title>
+    <link href="https://ghblog.github.io/posts/9a5708c9.html"/>
+    <id>https://ghblog.github.io/posts/9a5708c9.html</id>
+    <published>2023-09-01T07:56:36.000Z</published>
+    <updated>2023-12-17T03:25:00.686Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用-systemd-管理服务&quot;&gt;&lt;a href=&quot;#使用-systemd-管理服务&quot; class=&quot;headerlink&quot; title=&quot;使用 systemd 管理服务&quot;&gt;&lt;/a&gt;使用 systemd 管理服务&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://ghblog.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://ghblog.github.io/tags/Linux/"/>
+    
+    <category term="systemd" scheme="https://ghblog.github.io/tags/systemd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何基于 PHP 搭建 GRPC 服务</title>
+    <link href="https://ghblog.github.io/posts/e4a23e35.html"/>
+    <id>https://ghblog.github.io/posts/e4a23e35.html</id>
+    <published>2023-04-27T10:32:05.000Z</published>
+    <updated>2023-12-17T03:25:00.690Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;PHP7-4-搭建-GRPC-客户端服务&quot;&gt;&lt;a href=&quot;#PHP7-4-搭建-GRPC-客户端服务&quot; class=&quot;headerlink&quot; title=&quot;PHP7.4 搭建 GRPC 客户端服务&quot;&gt;&lt;/a&gt;PHP7.4 搭建 GRPC</summary>
+        
+      
+    
+    
+    
+    <category term="PHP" scheme="https://ghblog.github.io/categories/PHP/"/>
+    
+    
+    <category term="PHP" scheme="https://ghblog.github.io/tags/PHP/"/>
+    
+    <category term="RPC" scheme="https://ghblog.github.io/tags/RPC/"/>
+    
+    <category term="GRPC" scheme="https://ghblog.github.io/tags/GRPC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 redis 中通过 redis-cli 调试 lua 脚本</title>
+    <link href="https://ghblog.github.io/posts/81563347.html"/>
+    <id>https://ghblog.github.io/posts/81563347.html</id>
+    <published>2023-04-25T10:04:27.000Z</published>
+    <updated>2023-12-17T03:25:00.688Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;在-redis-中通过-redis-cli-调试-lua-脚本&quot;&gt;&lt;a href=&quot;#在-redis-中通过-redis-cli-调试-lua-脚本&quot; class=&quot;headerlink&quot; title=&quot;在 redis 中通过 redis-cli 调试 lua</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="https://ghblog.github.io/categories/Redis/"/>
+    
+    
+    <category term="Redis" scheme="https://ghblog.github.io/tags/Redis/"/>
+    
+    <category term="缓存" scheme="https://ghblog.github.io/tags/%E7%BC%93%E5%AD%98/"/>
+    
+    <category term="Lua" scheme="https://ghblog.github.io/tags/Lua/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis 数据备份与恢复</title>
+    <link href="https://ghblog.github.io/posts/c14e496.html"/>
+    <id>https://ghblog.github.io/posts/c14e496.html</id>
+    <published>2022-12-11T13:41:58.000Z</published>
+    <updated>2023-12-17T03:25:00.674Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Redis-数据备份与恢复&quot;&gt;&lt;a href=&quot;#Redis-数据备份与恢复&quot; class=&quot;headerlink&quot; title=&quot;Redis 数据备份与恢复&quot;&gt;&lt;/a&gt;Redis 数据备份与恢复&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="https://ghblog.github.io/categories/Redis/"/>
+    
+    
+    <category term="Redis" scheme="https://ghblog.github.io/tags/Redis/"/>
+    
+    <category term="缓存" scheme="https://ghblog.github.io/tags/%E7%BC%93%E5%AD%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go 打包和部署</title>
+    <link href="https://ghblog.github.io/posts/5c09a73d.html"/>
+    <id>https://ghblog.github.io/posts/5c09a73d.html</id>
+    <published>2022-11-26T14:45:03.000Z</published>
+    <updated>2023-12-17T03:25:00.659Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Go-打包和部署&quot;&gt;&lt;a href=&quot;#Go-打包和部署&quot; class=&quot;headerlink&quot; title=&quot;Go 打包和部署&quot;&gt;&lt;/a&gt;Go 打包和部署&lt;/h1&gt;&lt;h2 id=&quot;打包相关命令&quot;&gt;&lt;a href=&quot;#打包相关命令&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Go" scheme="https://ghblog.github.io/categories/Go/"/>
+    
+    
+    <category term="Go" scheme="https://ghblog.github.io/tags/Go/"/>
+    
+    <category term="Golang" scheme="https://ghblog.github.io/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在 Go 项目中可靠的获取项目根目录</title>
+    <link href="https://ghblog.github.io/posts/7c9ed3a3.html"/>
+    <id>https://ghblog.github.io/posts/7c9ed3a3.html</id>
+    <published>2022-11-22T02:24:05.000Z</published>
+    <updated>2023-12-17T03:25:00.690Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何在-Go-项目中可靠的获取项目根目录&quot;&gt;&lt;a href=&quot;#如何在-Go-项目中可靠的获取项目根目录&quot; class=&quot;headerlink&quot; title=&quot;如何在 Go 项目中可靠的获取项目根目录&quot;&gt;&lt;/a&gt;如何在 Go</summary>
+        
+      
+    
+    
+    
+    <category term="Go" scheme="https://ghblog.github.io/categories/Go/"/>
+    
+    
+    <category term="Go" scheme="https://ghblog.github.io/tags/Go/"/>
+    
+    <category term="Golang" scheme="https://ghblog.github.io/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go Modules 模式</title>
+    <link href="https://ghblog.github.io/posts/2f3aad3a.html"/>
+    <id>https://ghblog.github.io/posts/2f3aad3a.html</id>
+    <published>2022-11-14T14:49:58.000Z</published>
+    <updated>2023-12-17T03:25:00.659Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Go-Modules-模式&quot;&gt;&lt;a href=&quot;#Go-Modules-模式&quot; class=&quot;headerlink&quot; title=&quot;Go Modules 模式&quot;&gt;&lt;/a&gt;Go Modules 模式&lt;/h1&gt;&lt;h2 id=&quot;GOPATH-目录&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Go" scheme="https://ghblog.github.io/categories/Go/"/>
+    
+    
+    <category term="Go" scheme="https://ghblog.github.io/tags/Go/"/>
+    
+    <category term="Golang" scheme="https://ghblog.github.io/tags/Golang/"/>
+    
+  </entry>
+  
+</feed>
